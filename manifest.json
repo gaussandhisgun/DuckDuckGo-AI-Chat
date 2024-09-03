@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "DuckDuckGo AI Chat",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Displays a sidebar with DuckDuckGo AI Chat in it.",
   "author": "gravitos",
   "applications": {
